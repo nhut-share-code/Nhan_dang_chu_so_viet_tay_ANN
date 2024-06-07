@@ -6,5 +6,4 @@ Hình ảnh minh họa khi chạy file form khi đã có dữ liệu huấn luy�
 
 ![Ảnh nhận dạng số 1](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so1.jpg)
 ![Ảnh nhận dạng số 2](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so2.jpg)
-![Ảnh nhận dạng số 3](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so2 - Copy.jpg).
 
