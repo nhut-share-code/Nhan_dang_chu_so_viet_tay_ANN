@@ -5,6 +5,6 @@ Nếu bạn không muốn sử dụng file ann_model.pth đã chạy sẳn thì 
 Hình ảnh minh họa khi chạy file form khi đã có dữ liệu huấn luyện:
 
 ![Ảnh nhận dạng số 1](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so1.jpg)
-![Ảnh nhận dạng số 2](URL_hình_ảnh)
-![Tên hình ảnh](URL_hình_ảnh)
-![Tên hình ảnh](URL_hình_ảnh)
+![Ảnh nhận dạng số 2](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so2.jpg)
+![Ảnh nhận dạng số 3](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/img/so2 - Copy.jpg).
+
