@@ -25,7 +25,7 @@ Nếu bạn không muốn sử dụng file `ann_model.pth` đã được huấn 
 4. **Tùy chỉnh và mở rộng dự án**:
    - Bạn có thể tùy chỉnh và mở rộng dự án bằng cách chỉnh sửa mã nguồn và thêm các tính năng mới.
 
-### Nếu bạn cần trợ giúp hoặc có bất kỳ câu hỏi nào, hãy liên hệ với tôi qua Zalo theo số: <span style="color:red">0394915710</span>.**
+### Nếu bạn cần trợ giúp hoặc có bất kỳ câu hỏi nào, hãy liên hệ với tôi qua Zalo theo số: <span style="color:red">0394915710</span>.
 
 ![Ảnh nhận dạng số 1](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so1.jpg)
 ![Ảnh nhận dạng số 2](https://github.com/nhut-share-code/Nhan_dang_chu_so_viet_tay_ANN/blob/main/img/so2.jpg)
